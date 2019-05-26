@@ -1,2 +1,0 @@
-# UpdateCSSVariableswithJS
-Created with CodeSandbox
